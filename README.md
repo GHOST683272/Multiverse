@@ -1,2 +1,27 @@
-# Multiverse
-Interlinking servers
+- The system connects all servers globally (no grouping)  
+- Setup must be run in each server  
+
+---
+
+## 🔧 Limitations
+
+- No message edit/delete syncing  
+- No reply/thread syncing  
+- No anti-spam system  
+- Webhooks identified by name (`Multiverse`)  
+
+---
+
+## 🔮 Future Improvements
+
+- Server grouping (multiple networks)  
+- Anti-spam & moderation tools  
+- Webhook caching optimization
+
+**Supporting the project would help in moving ahead and much more.** This is just a glimpse into the discord multiverse
+
+---
+
+## 🧭 Summary
+
+This bot creates a **shared chat network across servers**, making multiple communities feel like one unified space.
