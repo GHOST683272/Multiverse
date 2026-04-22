@@ -1,14 +1,14 @@
 - The system connects all servers globally (no grouping)  
-- Setup must be run in each server  
-
+- Setup(slash command) must be run in each server  
+- Webhooks identified by name (`Multiverse`) 
 ---
 
 ## 🔧 Limitations
 
 - No message edit/delete syncing  
 - No reply/thread syncing  
-- No anti-spam system  
-- Webhooks identified by name (`Multiverse`)  
+- No anti-spam system (**coming soon**)  
+ 
 
 ---
 
