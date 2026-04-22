@@ -1,6 +1,7 @@
 - The system connects all servers globally (no grouping)  
 - Setup(slash command) must be run in each server  
-- Webhooks identified by name (`Multiverse`) 
+- Webhooks identified by name (`Multiverse`)
+- Channel name will be multiverse only, please don't change it otherwise you have to run setup again.
 ---
 
 ## 🔧 Limitations
