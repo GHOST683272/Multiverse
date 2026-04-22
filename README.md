@@ -22,6 +22,8 @@
 **Supporting the project would help in moving ahead and much more.** This is just a glimpse into the discord multiverse
 
 ---
+Example:-
+<img width="450" height="238" alt="image" src="https://github.com/user-attachments/assets/e0286006-cbe9-469b-9956-b0cb2fcb93ca" />
 
 ## 🧭 Summary
 
