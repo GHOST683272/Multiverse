@@ -2,9 +2,25 @@
 
 A Discord bot that interconnects multiple servers through a shared `#multiverse` channel using webhooks.  
 Messages sent in one multiverse channel are automatically forwarded to all connected servers.  
-The bot includes anti-spam protection, link blocking, temporary blacklist automation, and permanent blacklist controls.  
-It also supports attachment forwarding while preserving usernames and avatars through webhooks.  
+The bot includes anti-spam protection, automatic temporary blacklist handling, permanent blacklist controls, and link blocking inside multiverse channels.  
+Attachments are also forwarded while preserving usernames and avatars through webhooks.  
 Built using `discord.py` with slash commands support.
+
+---
+
+# Features
+
+- Cross-server chat system
+- Automatic multiverse channel setup
+- Webhook-based message forwarding
+- Username and avatar preservation
+- Attachment forwarding
+- Repetition spam detection
+- Automatic temporary blacklist
+- Permanent blacklist system
+- Unblacklist system
+- Link blocking inside multiverse
+- Slash command support
 
 ---
 
@@ -25,7 +41,6 @@ Built using `discord.py` with slash commands support.
 - Attachments are forwarded between linked servers
 - Webhooks preserve sender username and avatar
 - Requires `Manage Channels` and `Manage Webhooks` permissions
-  
 Example:-
 <img width="450" height="238" alt="image" src="https://github.com/user-attachments/assets/e0286006-cbe9-469b-9956-b0cb2fcb93ca" />
 
